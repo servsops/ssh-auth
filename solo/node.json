@@ -1,0 +1,8 @@
+{
+  "name": "ssh-auth",
+  "ssh-auth": {
+    "project": "test"
+  },
+  "run_list": [ "recipe[ssh-auth]" ]
+}
+
